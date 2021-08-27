@@ -1,0 +1,14 @@
+.quem-somos {
+  width: 70vw;
+  height: 100vh;
+  margin: 2vw auto;
+}
+
+.quem-somos h2 {
+  font-family: "Bodega Script";
+  font-size: 3.2vw;
+  display: flex;
+  margin-bottom: 4rem;
+  justify-content: center;
+}
+
